@@ -1,0 +1,13 @@
+# WhatsApp session (don't commit - contains your login)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Node modules
+node_modules/
+
+# User data
+users.json
+
+# Logs
+*.log
+npm-debug.log*
